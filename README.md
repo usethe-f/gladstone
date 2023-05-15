@@ -1,4 +1,4 @@
-# Docker CookBook
+# ~~Docker CookBook~~My Gladstone Bag
 It is a compilation of best practices and techniques in Docker, applied to small projects that can be executed in local or production environments; Through these examples you will have a very clear idea of how to extend or optimize your development environments.
 
 **Share your knowledge**
